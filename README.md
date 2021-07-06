@@ -1,2 +1,2 @@
 # gitskills
-hello another gitskills repository
+another gitskills repository
